@@ -1,7 +1,7 @@
 {
-  "version": 20261018,
-  "lastUpdated": "2026-10-18",
-  "dataHash": "6cd50ace7440527b0cb04190e335824e83a8c9a5e20e438a30f5c4601e8f4295",
+  "version": 20261025,
+  "lastUpdated": "2026-10-25",
+  "dataHash": "3859d00596e00a486f63434ac822dbfa7cd040e4f014570a9b6f29214df6f56a",
   "busStopsUrl": "https://cdn.jsdelivr.net/gh/josimcodes/wmb-assets@main/bus_stops.min.json",
   "busRoutesUrl": "https://cdn.jsdelivr.net/gh/josimcodes/wmb-assets@main/bus_routes.min.json"
 }
